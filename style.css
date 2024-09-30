@@ -1,0 +1,65 @@
+.ekran{
+    background-color: black;
+    text-align: center;
+    color: black;
+}
+.name{
+    background-color: burlywood;
+    width: 1480;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+.label1{
+    color: yellow;
+    font-size: 30px;
+}
+.label2{
+    color: yellow;
+    font-size: 30px;
+}
+.label3{
+    color: yellow;
+    font-size: 30px;
+}
+.label4{
+    color: yellow;
+    font-size: 30px;
+}
+.label5{
+    color: yellow;
+    font-size: 30px;
+}
+.name1{
+    border-radius: 30px;
+    font-size: 20px;
+}
+.name2{
+    border-radius: 30px;
+    font-size: 20px;
+}
+.name3{
+    border-radius: 30px;
+    font-size: 20px;
+}
+.name4{
+    border-radius: 30px;
+    font-size: 20px;
+}
+.name5{
+    border-radius: 30px;
+    font-size: 20px;
+}
+.div{
+    background-color: darkgreen;
+    color: white;
+    border-radius: 50px;
+    width: 480;
+    height: 30px;
+    text-align: center;
+    font-size: 20px
+}
+.but{
+    background-color: black;
+    width: 50%;
+}
